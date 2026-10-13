@@ -1,0 +1,7 @@
+SITE DO CURSO — VERSÃO CORRIGIDA
+
+O logo foi redesenhado em SVG transparente e sua tipografia ampliada.
+O conteúdo ficou aproximadamente 10% menor, com alinhamento correto dos links de navegação sob o cabeçalho fixo.
+
+VÍDEO: abra o site por http://localhost:8000 usando INICIAR-SITE.bat (necessita Python), ou por uma hospedagem HTTPS. Não abra index.html diretamente via file:// para testar incorporação.
+O erro 153 é uma rejeição do YouTube relacionada a identificação/referenciador do player e não pode ser corrigido apenas pelo layout. Agora o player usa youtube-nocookie; se continuar bloqueado, teste na hospedagem e verifique permissões de incorporação no YouTube Studio. Existe link direto para assistir caso necessário.
